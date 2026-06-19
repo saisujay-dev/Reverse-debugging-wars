@@ -1,0 +1,4 @@
+INSERT INTO food_item (name, category, price, image_url, available) VALUES ('Cheese Burger', 'Fast Food', 129, 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600', true);
+INSERT INTO food_item (name, category, price, image_url, available) VALUES ('Veg Pizza', 'Pizza', 199, 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600', true);
+INSERT INTO food_item (name, category, price, image_url, available) VALUES ('Masala Dosa', 'South Indian', 89, 'https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=600', true);
+INSERT INTO food_item (name, category, price, image_url, available) VALUES ('Cold Coffee', 'Beverages', 79, 'https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=600', true);
